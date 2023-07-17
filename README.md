@@ -5,7 +5,7 @@ Student.
 
 <!-- <img align="right" alt="GIF" src="images/butterfly.gif" /> -->
 
-**Briefly About Me!**
+**Briefly About Me**
 
 - 🔭 I am currently a Data Analyst Intern at USRA-NASA's Marshall Space Flight
   Center
