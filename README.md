@@ -1,6 +1,12 @@
-<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2000&pause=1000&color=F776A3&background=E2FF7E00&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Alhassan+Sahad;I'm+an+aspiring+Software+Engineer)](https://git.io/typing-svg)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=2000&pause=1000&color=F776A3&background=F5FF4D00&width=770&height=100&lines=Hi%2C+I'm+Alhassan+Sahad;I'm+an+aspiring+Software+Engineer" alt="Typing SVG">
+  </a>
+  <div>
+    <img src="images/butterfly.gif" width="30%" alt="Butterfly gif">
+    <img src="images/dog.gif" width="20%" alt="Dog gif">
+  </div>
+</div>
 
 <!-- I am an aspiring Software Engineer, Geospatial Data Scientist and a Graduate
 Student. -->
@@ -12,6 +18,8 @@ Student. -->
 - 🔭 I'm currently a Data Analyst Intern at USRA-NASA's Marshall Space Flight
   Center
 - 🌱 I’m currently in a Fullstack Software Engineering Bootcamp
+- 🌱 I am an aspiring Software Engineer, Geospatial Data Scientist and a
+  Graduate Student at the University of Missouri
 - 👯 I'm Currently learning client-side technologies such as HTML,CSS and
   Bootstrap and JavaScript
 - 💬 Ask me about anything , Would love to answer them.✌
