@@ -7,15 +7,16 @@ Student.
 
 **Briefly About Me**
 
-- 🔭 I am currently a Data Analyst Intern at USRA-NASA's Marshall Space Flight
+- 🔭 I'm currently a Data Analyst Intern at USRA-NASA's Marshall Space Flight
   Center
 - 🌱 I’m currently in a Fullstack Software Engineering Bootcamp
-- 👯 Currently learning client-side technologies such as HTML,CSS and Bootstrap
+- 👯 I'm Currently learning client-side technologies such as HTML,CSS and Bootstrap
   and JavaScript
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform
 - 📝Check out my [MPortfolio](https://sahadalhassan.com/)
 
+ **Skills and Proficiencies**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
