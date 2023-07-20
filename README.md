@@ -24,7 +24,7 @@ Student. -->
   Bootstrap and JavaScript
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform
-- 📝Check out my [MPortfolio](https://sahadalhassan.com/)
+- 📝Check out my [my portfolio](https://sahadalhassan.com/)
 - <h3 align="left">Connect with me:</h3>
   <p align="left">
 
