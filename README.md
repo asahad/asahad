@@ -17,7 +17,7 @@ Student. -->
 
 - 🔭 I'm currently a Data Analyst Intern at USRA-NASA's Marshall Space Flight
   Center
-- 🌱 I’m currently in a Fullstack Software Engineering Bootcamp
+- 🌱 I’m currently enrolled in a Fullstack Software Engineering Bootcamp
 - 🌱 I am an aspiring Software Engineer, Geospatial Data Scientist and a
   Graduate Student at the University of Missouri
 - 👯 I'm Currently learning client-side technologies such as HTML,CSS and
