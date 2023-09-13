@@ -8,8 +8,7 @@
   </div>
 </div>
 
-<!-- I am an aspiring Software Engineer, Geospatial Data Scientist and a Graduate
-Student. -->
+<!-- I am a Software Engineer and a  Data Scientist -->
 
 <!-- <img align="right" alt="GIF" src="images/butterfly.gif" /> -->
 
