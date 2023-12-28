@@ -11,6 +11,10 @@
 <!-- I am a Software Engineer and a  Data Scientist -->
 
 <!-- <img align="right" alt="GIF" src="images/butterfly.gif" /> -->
+[![</> -Portfolio](https://img.shields.io/badge/<%2F>-Portfolio-0099E5?style=for-the-badge)](https://www.edrisajobe.dev)
+[![In - LinkedIn](https://img.shields.io/badge/In-LinkedIn-3670A0?style=for-the-badge)](https://www.linkedin.com/in/edrisa-jobe-1305211b8/) 
+[![Email - ed.jobe@yahoo.com](https://img.shields.io/badge/Email-ed.jobe%40yahoo.com-A100FF?style=for-the-badge)](https://www.yahoo.com)
+
 
 ## My Tech Stack 👨‍💻
 
