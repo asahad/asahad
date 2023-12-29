@@ -30,7 +30,7 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)
 
-### Other Skills | Familiar with...
+### Other Skills I am Familiar with...
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=generic&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=generic&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
