@@ -11,10 +11,9 @@
 <!-- I am a Software Engineer and a  Data Scientist -->
 
 <!-- <img align="right" alt="GIF" src="images/butterfly.gif" /> -->
-[![</> -Portfolio](https://img.shields.io/badge/<%2F>-Portfolio-0099E5?style=for-the-badge)](https://sahadalhassan.com/))
-[![In - LinkedIn](https://img.shields.io/badge/In-LinkedIn-3670A0?style=for-the-badge)](https://www.linkedin.com/in/alhassansahad/)) 
-[![Email - alhassansahad24@gmail.com](https://img.shields.io/badge/Email-ed.jobe%40yahoo.com-A100FF?style=for-the-badge)](https://www.gmail.com.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-0099E5?style=for-the-badge)](https://sahadalhassan.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge)](https://www.linkedin.com/in/alhassansahad/)
+[![Email](https://img.shields.io/badge/Email-alhassansahad24%40gmail.com-A100FF?style=for-the-badge)](mailto:alhassansahad24@gmail.com)
 
 ## My Tech Stack 👨‍💻
 
