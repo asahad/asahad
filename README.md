@@ -16,7 +16,6 @@
 [![Email](https://img.shields.io/badge/Email-alhassansahad24%40gmail.com-A100FF?style=for-the-badge)](mailto:alhassansahad24@gmail.com)
 
 ## My Tech Stack 👨‍💻
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -45,15 +44,4 @@
 ![GDAL](https://img.shields.io/badge/GDAL-46A735?style=for-the-badge&logo=gdal&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Rasterio](https://img.shields.io/badge/Rasterio-0769AD?style=for-the-badge&logo=python&logoColor=white)
-
-### Other Skills I am Familiar with...
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=generic&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=generic&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-%23FF0000.svg?style=for-the-badge&logo=leaflet&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-00599C?style=for-the-badge&logo=python&logoColor=white)
