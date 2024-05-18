@@ -18,7 +18,7 @@
 - **MS in Data Science**
 - **Fullstack Software Engineering**
 - **Certificate in Geographic Information Systems (GIS)**
-- **BSc in Geological Engineering**
+- **BS in Geological Engineering**
 
   
 ## My Tech Stack 👨‍💻
