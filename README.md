@@ -32,12 +32,19 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0769AD?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3766AB?style=for-the-badge&logo=seaborn&logoColor=white)
 
-### Software Engineering Libraries and Frameworks
+### Libraries and Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)
+
+### Geospatial Tools
+![PostGIS](https://img.shields.io/badge/PostGIS-223344?style=for-the-badge&logo=postgresql&logoColor=white)
+![Xarray](https://img.shields.io/badge/Xarray-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-46A735?style=for-the-badge&logo=gdal&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-0769AD?style=for-the-badge&logo=python&logoColor=white)
 
 ### Other Skills I am Familiar with...
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=generic&logoColor=white)
@@ -49,11 +56,4 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230769AD.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![OpenLayers](https://img.shields.io/badge/OpenLayers-%23F7DF1E.svg?style=for-the-badge&logo=openlayers&logoColor=black)
 ![Leaflet](https://img.shields.io/badge/Leaflet-%23FF0000.svg?style=for-the-badge&logo=leaflet&logoColor=white)
-
-
