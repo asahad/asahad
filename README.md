@@ -15,10 +15,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge)](https://www.linkedin.com/in/alhassansahad/)
 [![Email](https://img.shields.io/badge/Email-alhassansahad24%40gmail.com-A100FF?style=for-the-badge)](mailto:alhassansahad24@gmail.com)
 ### Education
-- **BSc in Geological Engineering**
-- **Certificate in Geographic Information Systems (GIS)**
-- **Fullstack Software Engineering**
 - **MS in Data Science and Analytics**
+- **Fullstack Software Engineering**
+- **Certificate in Geographic Information Systems (GIS)**
+- **BSc in Geological Engineering**
 - 
 ## My Tech Stack 👨‍💻
 ### Languages
