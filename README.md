@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0099E5?style=for-the-badge)](https://sahadalhassan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge)](https://www.linkedin.com/in/alhassansahad/)
 [![Email](https://img.shields.io/badge/Email-alhassansahad24%40gmail.com-A100FF?style=for-the-badge)](mailto:alhassansahad24@gmail.com)
-## Education
+## Education 🎓
 - **MS in Data Science**
 - **Fullstack Software Engineering**
 - **Certificate in Geographic Information Systems (GIS)**
