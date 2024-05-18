@@ -14,7 +14,12 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0099E5?style=for-the-badge)](https://sahadalhassan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge)](https://www.linkedin.com/in/alhassansahad/)
 [![Email](https://img.shields.io/badge/Email-alhassansahad24%40gmail.com-A100FF?style=for-the-badge)](mailto:alhassansahad24@gmail.com)
-
+### Education
+- **BSc in Geological Engineering**
+- **Certificate in Geographic Information Systems (GIS)**
+- **Fullstack Software Engineering**
+- **MS in Data Science and Analytics**
+- 
 ## My Tech Stack 👨‍💻
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
