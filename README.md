@@ -16,7 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-alhassansahad24%40gmail.com-A100FF?style=for-the-badge)](mailto:alhassansahad24@gmail.com)
 ## Education 🎓
 - **MS in Data Science**
-- **Fullstack Software Engineering**
+- **Fullstack Software Engineering Bootcamp**
 - **Certificate in Geographic Information Systems (GIS)**
 - **BS in Geological Engineering**
 
